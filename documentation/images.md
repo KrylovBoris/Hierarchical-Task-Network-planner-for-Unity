@@ -1,3 +1,4 @@
+###3.6. Images
 ![System UML Class Diagram](https://github.com/KrylovBoris/Hierarchical-Task-Network-planner-for-Unity/blob/master/images/UMLClass.jpg)
 
 This diagram showcases the class structure of the proposed planner.
