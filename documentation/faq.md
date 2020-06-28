@@ -1,4 +1,4 @@
-## Frequently Asked Questions
+## 4. Frequently Asked Questions
 
 ### Is this really an HTN planner?
 Yes. It is by definition. The only major diversions are integrity rules and the usage of generative function instead of a set of decomposition methods. Integrity rules are just an extension of the classic HTN method that allows task execution interruption. Generative functions map states to the proper task decompositions, while preconditions in decomposition methods are used to check applicability of the decomposition to a state. One generative function can describe multiple decomposition methods. The difference in functionality is that we don't search a proper decomposition, but generate one for a given state. It is faster performance-wise and easier to code, as you don't need to define same sequences multiple times for several different decomposition methods of one compound task.
