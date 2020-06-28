@@ -17,3 +17,5 @@ You don't want your agent disabled while it is performing an assigned task anywa
 
 ### Why does your F.A.Q. section has so few questions?
 This project is currently under development, so this section will be expanded in future.
+
+[[Previous](https://github.com/KrylovBoris/Hierarchical-Task-Network-planner-for-Unity/blob/master/documentation/images.md)|[Table of contents](https://github.com/KrylovBoris/Hierarchical-Task-Network-planner-for-Unity/blob/master/documentation/_table_of_contents.md)|[Next](https://github.com/KrylovBoris/Hierarchical-Task-Network-planner-for-Unity/blob/master/documentation/integration-in-unity-project.md)]
