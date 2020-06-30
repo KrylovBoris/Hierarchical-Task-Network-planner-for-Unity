@@ -1,6 +1,6 @@
 # Table of contents
 
-1. [What's this project about?](https://github.com/KrylovBoris/Hierarchical-Task-Network-planner-for-Unity/blob/master/documentation/project-overview)
+1. [What's this project about?](https://github.com/KrylovBoris/Hierarchical-Task-Network-planner-for-Unity/blob/master/documentation/project-overview.md)
 1. [What's hierarchical task network planning?](https://github.com/KrylovBoris/Hierarchical-Task-Network-planner-for-Unity/blob/master/documentation/htn-overview.md)
 1. [What are the contents of this repository?]()
    1. [Scripts: Task.cs and CoroutineStarter.cs](https://github.com/KrylovBoris/Hierarchical-Task-Network-planner-for-Unity/blob/master/documentation/tasks.md)
