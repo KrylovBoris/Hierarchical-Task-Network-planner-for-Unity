@@ -8,7 +8,7 @@ Of course! However, I strongly encourage you to wait until more user-friendly so
 However, its usability and convinience of use is less than desirable right now.
 
 ### Is this project finished?
-Yes, but not really. We are planning a lot of features in future including some quality of life extension, so you can use it in your projects without dealing with a lot of unnecessary heasache. Here I present to you the bare bones of the project on top of which I plan to build a complete system.
+Yes, but not really. We are planning a lot of features in future including some quality of life improvements and extension for Unity Editor, so you can use this system in your projects without dealing with unnecessary headache. Here I present to you the bare bones of the project on top of which I plan to build a complete system.
 
 ### My agents stop working for some reason. Why?
 Our system depends on Coroutines. All coroutines in Unity are attached to some GameObject. 
